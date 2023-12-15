@@ -1,2 +1,2 @@
 # Davilex-Archive-Unpacker
-An unpacker of Davilex game archives until 2002. 
+Automatically detects the archive type: regular or compressed. Required files for unpacking: IMG and IND.
