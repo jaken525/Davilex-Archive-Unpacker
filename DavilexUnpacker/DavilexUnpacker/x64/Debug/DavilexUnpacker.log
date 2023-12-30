@@ -1,5 +1,0 @@
-﻿  DavilexUnpacker.cpp
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(170,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\files.h(83,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(182): warning C4715: OpenFile: значение возвращается не при всех путях выполнения
-  DavilexUnpacker.vcxproj -> C:\Users\Admin\source\repos\DavilexUnpacker\x64\Debug\DavilexUnpacker.exe
