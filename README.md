@@ -1,5 +1,5 @@
 # Davilex-Archive-Unpacker
-Automatically detects the archive type: regular or compressed.
+Automatically detects the archive type: regular or compressed. You can create your own archives with any number of files.
 
 # Requirements
 - zlib library
