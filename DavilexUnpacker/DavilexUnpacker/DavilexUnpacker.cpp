@@ -29,5 +29,5 @@ int main(int argc, char* argv[])
 		unpacker.Open(mode);
 	}
 
-	return 0;
+	return 1;
 }

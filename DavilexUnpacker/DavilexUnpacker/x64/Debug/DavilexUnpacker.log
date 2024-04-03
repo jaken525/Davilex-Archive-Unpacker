@@ -1,5 +1,33 @@
 ﻿  DavilexUnpacker.cpp
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(170,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\files.h(83,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(182): warning C4715: OpenFile: значение возвращается не при всех путях выполнения
-  DavilexUnpacker.vcxproj -> C:\Users\Admin\source\repos\DavilexUnpacker\x64\Debug\DavilexUnpacker.exe
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(173,20): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(225,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(274,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(90,59): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(118,32): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(172,39): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(194,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(196,37): warning C4267: аргумент: преобразование из "size_t" в "uLong"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(199,62): warning C4267: аргумент: преобразование из "size_t" в "uLong"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\files.h(207,17): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "DavilexUnpacker.cpp")
+  
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(286,1): warning C4715: OpenFile: значение возвращается не при всех путях выполнения
+  DavilexUnpacker.vcxproj -> A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\x64\Debug\DavilexUnpacker.exe

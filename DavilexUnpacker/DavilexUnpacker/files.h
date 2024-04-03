@@ -159,7 +159,7 @@ void files::IMG::Pack()
 	if (folder != "")
 	{
 		int mode = 0;
-		std::cout << "Compress files? 1 - Yes, 2 - No\n->";
+		std::cout << "Compress files? 1 - Yes, 2 - No\n-> ";
 		std::cin >> mode;
 
 		if (mode == 1)
@@ -173,7 +173,7 @@ void files::IMG::Pack()
 		indexFile.fileOffsets = new uint32_t[indexFile.countFiles];
 		indexFile.fileNames = new std::string[indexFile.countFiles];
 
-		std::ofstream imgFile(GetFileNameFile(folder) + ".img", std::ios::binary);
+		std::ofstream imgFile(GetFileNamePath(folder) + GetFileNameFile(folder) + ".img", std::ios::binary);
 		int filePos = 0;
 		for (int i = 0; i < indexFile.countFiles; i++)
 		{
@@ -230,7 +230,7 @@ void files::IND::Pack(std::string& path)
 {
 	std::cout << "Creating ind file...\n";
 
-	std::ofstream indFile(GetFileNameFile(path) + ".ind", std::ios::binary);
+	std::ofstream indFile(GetFileNamePath(path) + GetFileNameFile(path) + ".ind", std::ios::binary);
 	indFile << WriteShort(countFiles);
 
 	for (int i = 0; i < countFiles; i++)

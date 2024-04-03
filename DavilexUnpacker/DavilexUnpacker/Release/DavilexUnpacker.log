@@ -1,11 +1,11 @@
 ﻿cl : командная строка  warning D9025: переопределение "/sdl" на "/GS-"
   DavilexUnpacker.cpp
-C:\Users\Admin\source\repos\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(232,20): warning C4018: <: несоответствие типов со знаком и без знака
+A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\DavilexUnpacker\BinaryFileWork.h(232,20): warning C4018: <: несоответствие типов со знаком и без знака
   (компиляция исходного файла "DavilexUnpacker.cpp")
   
   Создание кода
-  1 of 641 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+  2 of 644 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+    0 functions had inline decision re-evaluated but remain unchanged
   Создание кода завершено
-  DavilexUnpacker.vcxproj -> C:\Users\Admin\source\repos\DavilexUnpacker\Release\DavilexUnpacker.exe
+  DavilexUnpacker.vcxproj -> A:\GitHub\Davilex-Archive-Unpacker\DavilexUnpacker\Release\DavilexUnpacker.exe
